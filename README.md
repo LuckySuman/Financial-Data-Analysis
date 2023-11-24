@@ -20,25 +20,18 @@ The dashboard is created by using DAX functions, visualization charts,  measures
 
 
 
+![Home Page](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/ee7709e3-a89e-4c64-ac26-8fcf82fd1984)
 
+![Summary Page](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/b8d01f23-7158-44a9-a24e-d031e00398b8)
 
+![Income Page](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/810f5749-3957-493d-8155-3a9b6ce9efd7)
 
-![Home Page](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/69393539-d146-47c9-a3a0-04b8b89ac408)
+![Payment Page](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/67776365-ce44-4860-af58-166e8045a896)
 
+![Net Income](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/993bfdb8-c4f8-4934-bf99-f3e128a0e5a4)
 
-![SUMMARY PAGE](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/98aa3ee4-6f82-45d4-95c9-7dea167db13b)
+![Q   A](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/c6a68dc1-bf66-4327-ac37-c5a7466a67ff)
 
-
-![Income Page](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/6d9dcbed-c556-4a96-9d3e-b0f7d4697e95)
-
-
-![Payment Page](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/3d70cb6a-c934-4008-a62b-2e01d581617a)
-
-
-![Net Income](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/a49e7345-24d4-43cd-8df4-34309b2efe18)
-
-
-![Q   A page](https://github.com/LuckySuman/Financial-Data-Analysis/assets/124083128/930e36b7-3722-45e8-9e11-4a062679cd8b)
 
 #Some of the main insights are:
 
